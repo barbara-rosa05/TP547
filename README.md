@@ -1,2 +1,21 @@
 # TP547
 
+Este repositório armazena os trabalhos desenvolvidos ao longo da disciplina TP547.
+
+Aqui serão organizadas diferentes partes do projeto final e demais atividades relacionadas, de forma modularizada.
+
+## Estrutura
+
+- `Trabalho_Final_Parte_1/` — Simulação de Monte Carlo para distribuição de autovalores em canais RIS.
+- (Outros diretórios serão adicionados conforme o andamento da disciplina.)
+
+## Tecnologias Utilizadas
+
+- Python 3.13
+- Bibliotecas: NumPy, Matplotlib
+
+## Objetivo
+
+Organizar os projetos e atividades de forma centralizada, facilitando a manutenção, evolução e avaliação dos trabalhos desenvolvidos.
+
+---
