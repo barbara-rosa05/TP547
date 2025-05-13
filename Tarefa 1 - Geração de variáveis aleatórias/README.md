@@ -1,6 +1,6 @@
 # TP547 — Lista de Exercícios 1
 
-Este repositório contém a resolução da **Lista de Exercícios 1** da disciplina de **Modelagem e Simulação (TP547)** do curso de Mestrado, ministrada pela professora **Bárbara Cássia Florentino Rosa**.
+Este repositório contém a resolução da **Lista de Exercícios 1** da disciplina de **TP547** do curso de Mestrado.
 
 As resoluções foram realizadas em **Python 3** com auxílio das bibliotecas `NumPy`, `SciPy` e `Matplotlib`, e organizadas em um **notebook Jupyter** com visualizações e explicações passo a passo.
 
