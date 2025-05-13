@@ -20,7 +20,7 @@ As resoluções foram realizadas em **Python 3** com auxílio das bibliotecas `N
 ## Estrutura
 
 - `lista_resolvida.ipynb`: Notebook Jupyter com a resolução completa da lista.
-- `Lista de exercícios_1_2025_1.pdf`: Arquivo original com o enunciado das questões.
+- `Lista de exercícios 1.pdf`: Arquivo com o enunciado das questões.
 
 ---
 
@@ -46,13 +46,5 @@ As resoluções foram realizadas em **Python 3** com auxílio das bibliotecas `N
 - [NumPy](https://numpy.org/)
 - [SciPy](https://scipy.org/)
 - [Matplotlib](https://matplotlib.org/)
-
----
-
-## Observações
-
-- Os resultados são reproduzíveis com `np.random.seed(42)` para garantir consistência estatística.
-- Todos os exercícios estão comentados com explicações teóricas e práticas.
-- A solução segue o estilo acadêmico sugerido pela docente.
 
 ---
