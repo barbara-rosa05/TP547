@@ -7,12 +7,13 @@ Aqui serão organizadas diferentes partes do projeto final e demais atividades r
 ## Estrutura
 
 - `Trabalho_Final_Parte_1/` — Simulação de Monte Carlo para distribuição de autovalores em canais RIS.
+- `Tarefa_3_Gerador_FSK/` — Implementação de um gerador de sinal FSK com comparação entre modulações e simulação de canal ruidoso.
 - (Outros diretórios serão adicionados conforme o andamento da disciplina.)
 
 ## Tecnologias Utilizadas
 
 - Python 3.13
-- Bibliotecas: NumPy, Matplotlib
+- Bibliotecas: NumPy, Matplotlib, SciPy
 
 ## Objetivo
 
