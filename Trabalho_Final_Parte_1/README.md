@@ -33,10 +33,11 @@ O código está dividido em:
 
 ## Estrutura do Repositório
 
-- `main.ipynb` → Notebook completo com as simulações e análises.
+- `main.ipynb` → Notebook completo com as simulações, geração de variáveis aleatórias e análise dos autovalores.
+- `Apresentação Final.pptx` → Slides utilizados na apresentação oral do trabalho.
+- `Trabalho Final de TP547.docx` → Documento em Word com a descrição técnica e teórica da atividade.
 
 ## Autoras
 
 - Barbara Cássia Florentino Rosa
 - Beatriz Bastos Assis
----
