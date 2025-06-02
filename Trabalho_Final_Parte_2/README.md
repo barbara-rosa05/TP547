@@ -2,7 +2,7 @@
 
 Este repositório contém o notebook desenvolvido para a simulação e análise dos efeitos do **ruído de fase** em sistemas OFDM, baseado no artigo científico _“Phase Noise and Sub-Carrier Spacing Effects on the Performance of an OFDM Communication System”_ (IEEE Communications Letters, 1998), de García Armada e Calvo. A atividade foi realizada como parte da disciplina **TP547 - Princípios de Simulação de Sistemas de Comunicação**, no contexto de pós-graduação, com nível de excelência esperado para alunas destaque.
 
-## 🎯 Objetivos do Trabalho
+## Objetivos do Trabalho
 
 - Compreender e demonstrar computacionalmente os efeitos do **ruído de fase (phase noise)** e da perda de ortogonalidade entre subportadoras.
 - Simular diferentes configurações de sistemas OFDM com 128, 2048 e 8192 subportadoras.
@@ -10,7 +10,7 @@ Este repositório contém o notebook desenvolvido para a simulação e análise 
 - Reproduzir os gráficos apresentados no artigo (Figuras 2 e 3) e comparar com os resultados obtidos.
 - Produzir um relatório técnico com estrutura acadêmica sólida, interpretação crítica e validação dos achados.
 
-## 🧠 Conteúdo do Projeto
+## Conteúdo do Projeto
 
 O notebook `main.ipynb` está dividido em seções comentadas e explicadas com Markdown, Latex e docstrings para facilitar o entendimento:
 
