@@ -1,0 +1,30 @@
+M/M/2/∞/∞/∞/FIFO
+
+m = 2
+λ = 60 pacotes/segundo
+μ = 37,5 pacotes/segundo
+
+
+a) Tempo médio de serviço:
+   μ = 1/ts
+   ts = 1/μ
+   ts = 0,02667 segundos = 26,7 ms
+
+b) Utilização:
+   ρ = λ/μ = 60/37,5 = 1,6
+   ρ < m
+
+c) Probabilidade do sistema estar vazio:
+   P0 = 1 / [1 + (ρ/1!) + {ρ^2/[2!*(1-ρ/2)]} = 1 / [1 + (1,6/1!) + {1,6^2/[2!*(1-1,6/2)]} = 1 / (2,6) + {2,56/[2*0,2} = 1 / 9 = 0,1111 = 11,11%
+
+d) Número médio de elementos esperando na fila:
+   E[W] = [(P0*P^m) / m!] * 
+
+e) Tempo médio de permanência na fila:
+   E[tw] = 
+
+f) Tempo médio de permanência no sistema:
+   E[tq] = 
+
+g) Número médio de elementos no sistema:
+   E[q] = 
