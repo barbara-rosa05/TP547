@@ -6,6 +6,7 @@ Aqui serão organizadas diferentes partes do projeto final e demais atividades r
 
 ## Estrutura
 
+- `Materiais de aula/` — Conjunto de apostilas e apresentações em PDF das aulas da disciplina TP547, abrangendo tópicos como geração de variáveis aleatórias, métodos de Monte Carlo, técnicas de amostragem, códigos de linha, modulação digital, cadeias de Markov, análise de filas e simulação de eventos discretos.
 - `Tarefa 1 - Geração de variáveis aleatórias/` — Resolução completa da Lista de Exercícios 1, abordando geração de variáveis aleatórias, modelagem de distribuições e métodos de simulação (GLC, Poisson, Binomial, Exponencial, Geométrica, Inversa e Aceitação-Rejeição).
 - `Tarefa 3 - Gerador FSK/` — Implementação de um gerador de sinal FSK com explicações teóricas, comparação entre modulações digitais (ASK, FSK, PSK) e simulação de canal ruidoso com cálculo da BER.
 - `Tarefa 4 - Teorema de Markov/` — Simulação e análise de uma cadeia de Markov com estados absorventes. Inclui visualização com grafos, matriz fundamental e probabilidade de absorção.
